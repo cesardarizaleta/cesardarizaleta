@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR4cjVxYWhpZmQ2ZWgxamx1cW9tNnBoaG9nbjYzY3V6MXJhcjc2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
   <h1>Cesar Dominguez</h1>
   <h2>Developer</h2>
   <p>
