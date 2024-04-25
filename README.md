@@ -17,7 +17,7 @@
 
 ---
 
-<div>
+<div align="center">
   <h3>“
     Happiness is not an ideal of reason, but of imagination.”- Immanuel Kant.
   </h3>
