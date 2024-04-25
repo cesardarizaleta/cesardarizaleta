@@ -9,7 +9,7 @@
   
 </div>
 
-<div style="text-align: center">
+<div align="center">
   <a href="mailto:cesardarizaleta@gmail.com">
     <img src="https://img.shields.io/badge/cesardarizaleta%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
