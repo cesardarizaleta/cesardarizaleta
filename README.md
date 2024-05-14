@@ -18,11 +18,3 @@
 ---
 
 [![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepoTH)](https://github.com/PepoTH/github-readme-stats)
-
----
-<div>
-  <h2>
-    Stats
-  </h2>
-    https://github-readme-stats.vercel.app/api?username=PepoTH&show_icons=true&hide_border=true&theme=dark
-</div>
