@@ -26,4 +26,5 @@
 ---
 
 [![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepoTH)](https://github.com/PepoTH/github-readme-stats)
-<img width="80%" src="https://giphy.com/embed/tgNpIoE3IluB0bpEYl>
+<img width="80%" src=["https://giphy.com/embed/tgNpIoE3IluB0bpEYl](https://giphy.com/gifs/pixel-art-red-panda-bless-tgNpIoE3IluB0bpEYl")>
+
