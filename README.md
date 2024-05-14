@@ -22,3 +22,11 @@
     Happiness is not an ideal of reason, but of imagination.”- Immanuel Kant.
   </h3>
 </div>
+
+---
+<div>
+  <h2>
+    Languages
+  </h2>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/Python.svg" />
+</div>
