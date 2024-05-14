@@ -28,5 +28,5 @@
   <h2>
     Languages
   </h2>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg/#F7DF1E"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg/#3776AB"/>
 </div>
