@@ -26,7 +26,7 @@
 ---
 <div>
   <h2>
-    Languages
+    Stats
   </h2>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg/#3776AB"/>
+    https://github-readme-stats.vercel.app/api?username=PepoTH&show_icons=true&hide_border=true&theme=dark
 </div>
