@@ -23,9 +23,4 @@
    </h3>
  </div>
 
----
-
-[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepoTH)](https://github.com/PepoTH/github-readme-stats)
-
-
 
