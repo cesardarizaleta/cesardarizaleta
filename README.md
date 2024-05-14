@@ -17,11 +17,7 @@
 
 ---
 
-<div align="center">
-  <h3>“
-    Happiness is not an ideal of reason, but of imagination.”- Immanuel Kant.
-  </h3>
-</div>
+[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepoTH)](https://github.com/PepoTH/github-readme-stats)
 
 ---
 <div>
