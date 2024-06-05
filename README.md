@@ -29,7 +29,6 @@
   <img width=10% src="https://i.postimg.cc/PqLTWJwn/18133.png">
   <img width=10% src="https://i.postimg.cc/6QDwYKr2/java.png">
   <img width=10% src="https://i.postimg.cc/bJkP55g6/julia.png">
-  <img width=10% src="https://i.postimg.cc/MHwwJYrz/markdown-icon.webp">
   <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
   <img width=10% src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png">
   <img width=10% src="https://i.ibb.co/j86Drxg/css-3.png">
