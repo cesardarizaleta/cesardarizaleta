@@ -25,7 +25,16 @@
 
 ---
 
-<img width=25% src="https://i.postimg.cc/PqLTWJwn/18133.png">
+<div align="center">
+  <img width=10% src="https://i.postimg.cc/PqLTWJwn/18133.png">
+  <img width=10% src="https://i.postimg.cc/6QDwYKr2/java.png">
+  <img width=10% src="https://i.postimg.cc/bJkP55g6/julia.png">
+  <img width=10% src="https://i.postimg.cc/MHwwJYrz/markdown-icon.webp">
+  <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
+  <img width=10% src="https://ibb.co/dmHVv5q">
+  <img width=10% src="https://ibb.co/3TrcC8B">
+  <img width=10% src="https://ibb.co/kDD6BMh">
+</div>
 
 
 
