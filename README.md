@@ -34,7 +34,6 @@
   <img width=10% src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png">
   <img width=10% src="https://i.ibb.co/j86Drxg/css-3.png">
   <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/tL1v6Jt/html-5.png" alt="html-5" border="0"></a>
   <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
 </div>
 
