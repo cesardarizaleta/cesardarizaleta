@@ -31,7 +31,7 @@
   <img width=10% src="https://i.postimg.cc/bJkP55g6/julia.png">
   <img width=10% src="https://i.postimg.cc/MHwwJYrz/markdown-icon.webp">
   <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
-  <img width=10% src="https://ibb.co/dmHVv5q">
+  <img width=10% src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png">
   <img width=10% src="https://ibb.co/3TrcC8B">
   <img width=10% src="https://ibb.co/kDD6BMh">
 </div>
