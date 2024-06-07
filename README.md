@@ -16,8 +16,6 @@
   <br>  
   <a target="_blank" href="https://cesardominguez.000webhostapp.com">Mas Acerca de mi - Pagina Web</a>
 
-
-
 </div>
 
 ---
