@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/cesardarizaleta%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
   <br>  
-  <a href="https://cesardominguez.000webhostapp.com">Mas Acerca de mi - Pagina Web</a>
+  <a target="_blank" href="https://cesardominguez.000webhostapp.com">Mas Acerca de mi - Pagina Web</a>
 
 
 
