@@ -14,8 +14,7 @@
     <img src="https://img.shields.io/badge/cesardarizaleta%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
   <br>  
-">
-
+  
 ![Static Badge](https://img.shields.io/badge/Mas%20Acerca%20de%20mi%20-Pagina%20Web?style=for-the-badge&labelColor=%23ffd8c8&color=fff&link=https%3A%2F%2Fcesardominguez.000webhostapp.com)
 
 
