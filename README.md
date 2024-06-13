@@ -17,9 +17,9 @@
   
 
 </div>
-
-##### **<a target="_blank" href="https://cesardominguez.000webhostapp.com">About me - Personal Website</a>**
-
+<center>
+  ##### **<a target="_blank" href="https://cesardominguez.000webhostapp.com">About me - Personal Website</a>**
+</center>
 ---
 
 <div align="center">
