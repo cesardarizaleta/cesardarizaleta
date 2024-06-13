@@ -15,11 +15,11 @@
   </a>
   <br>  
   
-
+  <h1><a href="https://cesardominguez.000webhostapp.com">About me - Personal Website</a></h1>
 </div>
-<center>
-  ##### **<a target="_blank" href="https://cesardominguez.000webhostapp.com">About me - Personal Website</a>**
-</center>
+
+
+
 ---
 
 <div align="center">
