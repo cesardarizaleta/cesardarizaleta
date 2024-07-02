@@ -51,6 +51,7 @@
   <h3>In Process</h3> 
   
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
+  <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
 </div>
 
 
