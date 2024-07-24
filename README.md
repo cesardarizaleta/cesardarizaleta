@@ -35,13 +35,13 @@
   
   <img width=10% src="https://i.postimg.cc/PqLTWJwn/18133.png">
   <img width=10% src="https://i.postimg.cc/6QDwYKr2/java.png">
-  <img width=10% src="https://i.postimg.cc/bJkP55g6/julia.png">
   <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
   <img width=10% src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png">
   <img width=10% src="https://i.ibb.co/j86Drxg/css-3.png">
   <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
   <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
   <img width=10% src="https://i.ibb.co/0XzbYsZ/vscode-icons-file-type-light-json.png">
+  <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
   
 </div>
 
@@ -51,7 +51,6 @@
   <h3>In Process</h3> 
   
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
-  <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
   <img width=10% src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png">
 
 </div>
