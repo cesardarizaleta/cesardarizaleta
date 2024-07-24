@@ -52,6 +52,7 @@
   
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
   <img width=10% src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png">
+  <img width=10% src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4">
 
 </div>
 
