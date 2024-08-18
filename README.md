@@ -42,6 +42,7 @@
   <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
   <img width=10% src="https://i.ibb.co/0XzbYsZ/vscode-icons-file-type-light-json.png">
   <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
+  <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
   
 </div>
 
@@ -49,8 +50,7 @@
 
 <div align="center">
   <h3>In Process</h3> 
-  
-  <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
+
   <img width=10% src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png">
   <img width=10% src="https://i.ibb.co/FDpLsBy/Electron-Software-Framework-Logo-svg.png">
 </div>
