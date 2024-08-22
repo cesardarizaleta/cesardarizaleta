@@ -61,5 +61,5 @@
     <h3>DevCard</h3>
 </div>
 
-<a href="https://app.daily.dev/cesardarizaleta"><img src="https://api.daily.dev/devcards/v2/nc1w80UyjZhribT47PFP0.png?type=wide&r=64g" width="652" alt="Cesar Dominguez's Dev Card"/></a>
+<a href="https://app.daily.dev/cesardarizaleta"><img src="https://api.daily.dev/devcards/v2/nc1w80UyjZhribT47PFP0.png?type=wide&r=64g" width="100%" alt="Cesar Dominguez's Dev Card"/></a>
 
