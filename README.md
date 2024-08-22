@@ -13,7 +13,6 @@
   <a href="mailto:cesardarizaleta@gmail.com">
     <img src="https://img.shields.io/badge/cesardarizaleta%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
-  <p><a href="https://cesardominguez.netlify.app" target="_blank"><b>About me - Personal Website</b></a></p>
 </div>
 
 
