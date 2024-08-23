@@ -58,8 +58,7 @@
 
 
 <div align="center">
-    <h3>DevCard</h3>
-  <a href="https://app.daily.dev/cesardarizaleta"><img src="https://api.daily.dev/devcards/v2/nc1w80UyjZhribT47PFP0.png?type=wide&r=64g" width="50%" alt="Cesar Dominguez's Dev Card"/></a>
+  <img width="100%" src="https://s12.gifyu.com/images/SDQKX.gif">
 </div>
 
 
