@@ -39,7 +39,7 @@
   <img width=10% src="https://i.ibb.co/j86Drxg/css-3.png">
   <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
   <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
-  <img width=10% src="https://i.ibb.co/0XzbYsZ/vscode-icons-file-type-light-json.png">
+  <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png">
   <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
   
@@ -49,7 +49,7 @@
 
 <div align="center">
   <h3>In Process</h3> 
-
+  <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
   <img width=10% src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png">
   <img width=10% src="https://i.ibb.co/FDpLsBy/Electron-Software-Framework-Logo-svg.png">
 </div>
