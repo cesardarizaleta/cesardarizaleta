@@ -36,7 +36,7 @@
   <img width=10% src="https://i.postimg.cc/6QDwYKr2/java.png">
   <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
   <img width=10% src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png">
-  <img width=10% src="https://i.ibb.co/j86Drxg/css-3.png">
+  <img width=10% src="https://www.coywolf.news/wp-content/uploads/2024/11/purple-css-logo.webp">
   <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
   <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
   <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png">
