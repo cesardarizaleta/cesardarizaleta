@@ -50,8 +50,7 @@
 <div align="center">
   <h3>In Process</h3> 
   <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
-  <img width=10% src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png">
-  <img width=10% src="https://i.ibb.co/FDpLsBy/Electron-Software-Framework-Logo-svg.png">
+  <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
 </div>
 
 ---  
