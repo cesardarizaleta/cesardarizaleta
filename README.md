@@ -42,7 +42,7 @@
   <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png">
   <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
-  
+  <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
 </div>
 
 ---
@@ -50,7 +50,7 @@
 <div align="center">
   <h3>In Process</h3> 
   <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
-  <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
+  
 </div>
 
 ---  
