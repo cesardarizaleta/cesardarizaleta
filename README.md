@@ -36,7 +36,6 @@
   <img width=10% src="https://i.postimg.cc/6QDwYKr2/java.png">
   <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
   <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
-  <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
   <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
   <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
