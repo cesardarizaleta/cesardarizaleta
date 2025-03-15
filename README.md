@@ -35,21 +35,19 @@
   <img width=10% src="https://i.postimg.cc/PqLTWJwn/18133.png">
   <img width=10% src="https://i.postimg.cc/6QDwYKr2/java.png">
   <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
-  <img width=10% src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png">
-  <img width=10% src="https://www.coywolf.news/wp-content/uploads/2024/11/purple-css-logo.webp">
   <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
   <img width=10% src="https://i.ibb.co/tL1v6Jt/html-5.png)">
   <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
   <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
+  <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
 </div>
 
 ---
 
 <div align="center">
   <h3>In Process</h3> 
-  <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
-  
+  <img width=10% src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg">
 </div>
 
 ---  
