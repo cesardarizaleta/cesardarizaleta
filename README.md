@@ -40,6 +40,7 @@
   <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
   <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
   <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
+  <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
 </div>
 
 ---
