@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/cesardarizaleta%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
 </div>
+
 [![committers.top badge](https://user-badge.committers.top/venezuela_public/cesardarizaleta.svg)](https://user-badge.committers.top/venezuela_public/cesardarizaleta)
+
 ---
 
 <div align="center">
