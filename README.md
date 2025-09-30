@@ -41,7 +41,7 @@
   <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
   <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
   <img width=10% src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg">
-  <img widht=10% src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif">
+  <img widht=10% src="https://repository-images.githubusercontent.com/24195339/d4194dc2-d880-43f7-960c-ea30e05c6531">
 </div>
 
 ---
