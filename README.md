@@ -15,9 +15,7 @@
   </a>
 </div>
 
-<div align="center">
 [![committers.top badge](https://user-badge.committers.top/venezuela_public/cesardarizaleta.svg)](https://user-badge.committers.top/venezuela_public/cesardarizaleta)
-</div>
 
 ---
 
