@@ -3,9 +3,9 @@
   
   <h1>Cesar Dominguez</h1>
   <h2><strong>Computer Engineer</strong></h2>
-  <p>
-    Hi there! I'm Cesar, a passionate developer and open-source enthusiast. I enjoy working on a variety of projects, from web development to machine learning. Feel free to check out my repositories and contributions, and don't hesitate to reach out if you have any questions or want to collaborate on a project!
-  </p>
+<p>
+  Hi there! I'm Cesar, a <b>Computer Engineer</b> and passionate developer focused on building and optimizing robust systems. My main drive is mastering the <b>DevOps</b> methodology and becoming an expert in <b>infrastructure automation</b>, CI/CD, and scaling applications. I enjoy tackling complex challenges, from deep-dive coding to ensuring smooth deployment pipelines. Feel free to explore my work and contributions, and let's connect if you're interested in infrastructure projects or a collaborative coding effort!
+</p>
   
 </div>
 
