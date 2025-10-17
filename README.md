@@ -43,14 +43,15 @@
   <img width=10% src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg">
   <img width=10% src="https://repository-images.githubusercontent.com/24195339/d4194dc2-d880-43f7-960c-ea30e05c6531">
   <img width=10% src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png">
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
 </div>
 
 ---
 
 <div align="center">
   <h3>In Process</h3> 
-  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
   <img width="10%" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
+  <img width="10%" src="https://blog.stephane-robert.info/_astro/logo-terraform.BGfKm2SU_ZLVBFH.webp">
 </div>
 
 ---  
