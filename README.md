@@ -4,7 +4,7 @@
   <h1>Cesar Dominguez</h1>
   <h2><strong>Computer Engineer</strong></h2>
 <p>
-  Hi there! I'm Cesar, a <b>Computer Engineer</b> and passionate developer focused on building and optimizing robust systems. My main drive is mastering the <b>DevOps</b> methodology and becoming an expert in <b>infrastructure automation</b>, CI/CD, and scaling applications. I enjoy tackling complex challenges, from deep-dive coding to ensuring smooth deployment pipelines. Feel free to explore my work and contributions, and let's connect if you're interested in infrastructure projects or a collaborative coding effort!
+  Hi there! I'm Cesar, a <b>Computer Engineer</b> passionate about <b>DevOps</b> and mastering infrastructure automation. I specialize in writing clean, scalable <b>code</b> and building robust <b>CI/CD pipelines</b>. Let's connect if you want to collaborate on a system architecture challenge or a complex coding project!
 </p>
   
 </div>
