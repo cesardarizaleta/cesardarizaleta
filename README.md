@@ -52,6 +52,7 @@
   <h3>In Process</h3> 
   <img width="10%" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png">
   <img width="10%" src="https://blog.stephane-robert.info/_astro/logo-terraform.BGfKm2SU_ZLVBFH.webp">
+  <img width="10%" src="https://cdn.prod.website-files.com/67c0c4d199cdb275d3fc748a/67e17c5beef4a2f65a80c25a_Odoo%20logo%20favicon%20(1).png">
 </div>
 
 ---  
